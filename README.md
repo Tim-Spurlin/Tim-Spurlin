@@ -1,6 +1,6 @@
 # Full Stack Developer | U.S. Air Force Veteran | 18+ Years in Automation, Cloud & Scalable Software Solutions | API & End-to-End Development Expert
 
-## Its Power Was Undeniable, But Accessing It Was Foreign—The Burning Desire to Understand the Unknown Shaped the Path I Still Walk Today"
+## Its Power Was Undeniable, But Accessing It Was Foreign—The Burning Desire to Understand the Unknown Sparked a Passion I’d Carry for Life
 
 The journey began at **age 12** in **2006** with an old router, a broken Wi-Fi signal, and an unyielding drive to understand how networks function. As Wi-Fi technology expanded, frequent disconnections in distant parts of the house became a personal challenge. A solution was quickly found: extending the signal using a repeater reverse-engineered from a **Linksys WRT54GL** router. Luckily, two routers were available, and after following an online tutorial, the conversion was completed in under an hour. While the signal improved, intermittent drops persisted.
 
