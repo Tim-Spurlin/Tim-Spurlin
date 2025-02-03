@@ -1,8 +1,6 @@
-# About Me
+# Full Stack Developer | U.S. Air Force Veteran | 18+ Years in Automation, Cloud & Scalable Software Solutions | API & End-to-End Development Expert
 
-**Full Stack Developer, Software Engineer, and Automation Expert** with over **18 years of hands-on experience** in software development, data architecture, network infrastructure, cloud computing, and cybersecurity. A **U.S. Air Force veteran** and former **Intelligence Analyst**, combining technical expertise with strategic problem-solving to deliver impactful solutions.
-
-## My Journey
+## Its Power Was Undeniable, But Accessing It Was Foreign—The Burning Desire to Understand the Unknown Shaped the Path I Still Walk Today"
 
 The journey began at **age 12** in **2006** with an old router, a broken Wi-Fi signal, and an unyielding drive to understand how networks function. As Wi-Fi technology expanded, frequent disconnections in distant parts of the house became a personal challenge. A solution was quickly found: extending the signal using a repeater reverse-engineered from a **Linksys WRT54GL** router. Luckily, two routers were available, and after following an online tutorial, the conversion was completed in under an hour. While the signal improved, intermittent drops persisted.
 
