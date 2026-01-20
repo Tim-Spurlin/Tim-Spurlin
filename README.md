@@ -1,4 +1,4 @@
-# Tim Spurlin
+# Christian Spurlin
 
 <div align="center">
 
