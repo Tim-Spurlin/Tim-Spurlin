@@ -196,9 +196,9 @@ This process typically takes two to three weeks per repository. Some never gradu
 
 | Time  | 05:00 | 07:00 | 09:00 | 11:00 | 13:00 | 15:00 | 17:00 | 19:00 | 21:00 | 23:00 |
 |-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-| Focus | 🟢🟢🟢🟢 | 🟢🟢🟢🟢🟢 | 🟢🟢🟢🟢🟢 | 🟢🟢🟢🟢🟢 | 🟡🟡🟡 | 🟢🟢🟢🟢 | 🟢🟢🟢🟢🟢 | 🟢🟢🟢🟢 | 🟢🟢🟢 | 🟡🟡🟡 |
+| Focus | 🟢 High | 🟢 Peak | 🟢 Peak | 🟢 Peak | 🟡 Moderate | 🟢 High | 🟢 Peak | 🟢 High | 🟢 Good | 🟡 Moderate |
 
-🟢 Peak Productivity | 🟡 Moderate Energy
+🟢 Peak/High Productivity | 🟡 Moderate Energy
 
 </div>
 
@@ -275,12 +275,12 @@ pie title Primary Languages by Project Type
 
 | Language | Experience | Proficiency Level |
 |----------|-----------|-------------------|
-| 🐍 **Python** | 5+ years | <progress value="95" max="100"></progress> 95% - ML/AI Pipelines |
-| 📘 **TypeScript** | 3+ years | <progress value="90" max="100"></progress> 90% - Full-Stack Apps |
-| 🦀 **Rust** | 2+ years | <progress value="85" max="100"></progress> 85% - System Tools |
-| 🗄️ **SQL** | 7+ years | <progress value="90" max="100"></progress> 90% - Query Optimization |
-| 🐚 **Bash** | 10+ years | <progress value="95" max="100"></progress> 95% - System Automation |
-| 🐹 **Go** | 2+ years | <progress value="80" max="100"></progress> 80% - Infrastructure |
+| 🐍 **Python** | 5+ years | <progress value="95" max="100" aria-label="Python proficiency: 95%"></progress> 95% - ML/AI Pipelines |
+| 📘 **TypeScript** | 3+ years | <progress value="90" max="100" aria-label="TypeScript proficiency: 90%"></progress> 90% - Full-Stack Apps |
+| 🦀 **Rust** | 2+ years | <progress value="85" max="100" aria-label="Rust proficiency: 85%"></progress> 85% - System Tools |
+| 🗄️ **SQL** | 7+ years | <progress value="90" max="100" aria-label="SQL proficiency: 90%"></progress> 90% - Query Optimization |
+| 🐚 **Bash** | 10+ years | <progress value="95" max="100" aria-label="Bash proficiency: 95%"></progress> 95% - System Automation |
+| 🐹 **Go** | 2+ years | <progress value="80" max="100" aria-label="Go proficiency: 80%"></progress> 80% - Infrastructure |
 
 </div>
 
@@ -323,13 +323,13 @@ pie title Primary Languages by Project Type
 
 | Time Period | Activity | Focus Level |
 |-------------|----------|-------------|
-| 🌅 0500-0700 | Planning & Architecture | 🟢🟢🟢🟢 |
-| ☀️ 0700-1100 | Complex Problem Solving | 🟢🟢🟢🟢🟢 |
-| 🌤️ 1100-1300 | Code Review & Testing | 🟢🟢🟢🟢 |
-| 🌞 1300-1500 | Documentation | 🟡🟡🟡 |
-| 🌤️ 1500-1900 | Implementation & Debugging | 🟢🟢🟢🟢 |
-| 🌆 1900-2100 | Learning & Experimentation | 🟢🟢🟢 |
-| 🌙 2100-2300 | Planning for Next Day | 🟡🟡 |
+| 🌅 0500-0700 | Planning & Architecture | 🟢 High |
+| ☀️ 0700-1100 | Complex Problem Solving | 🟢 Peak |
+| 🌤️ 1100-1300 | Code Review & Testing | 🟢 High |
+| 🌞 1300-1500 | Documentation | 🟡 Moderate |
+| 🌤️ 1500-1900 | Implementation & Debugging | 🟢 High |
+| 🌆 1900-2100 | Learning & Experimentation | 🟢 Good |
+| 🌙 2100-2300 | Planning for Next Day | 🟡 Light |
 
 </div>
 
@@ -377,10 +377,10 @@ flowchart LR
 
 | Skill | Experience | Proficiency |
 |-------|------------|-------------|
-| 🌐 **Networking** | 18+ years (2006-2024) | <progress value="95" max="100"></progress> 95% |
-| 💻 **Programming** | 18+ years (2006-2024) | <progress value="95" max="100"></progress> 95% |
-| 🔐 **Security** | 18+ years (2006-2024) | <progress value="98" max="100"></progress> 98% |
-| 🤖 **AI/ML** | 6+ years (2018-2024) | <progress value="90" max="100"></progress> 90% |
+| 🌐 **Networking** | 18+ years (2006-2024) | <progress value="95" max="100" aria-label="Networking proficiency: 95%"></progress> 95% |
+| 💻 **Programming** | 18+ years (2006-2024) | <progress value="95" max="100" aria-label="Programming proficiency: 95%"></progress> 95% |
+| 🔐 **Security** | 18+ years (2006-2024) | <progress value="98" max="100" aria-label="Security proficiency: 98%"></progress> 98% |
+| 🤖 **AI/ML** | 6+ years (2018-2024) | <progress value="90" max="100" aria-label="AI/ML proficiency: 90%"></progress> 90% |
 
 </div>
 
