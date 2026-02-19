@@ -26,12 +26,12 @@
 
 ## 📊 GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tim-spurlin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=E2E8F0)](https://github.com/tim-spurlin)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tim-spurlin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=E2E8F0)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tim-spurlin&theme=dark&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981)](https://github.com/tim-spurlin)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tim-spurlin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=E2E8F0)](https://github.com/tim-spurlin)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tim-spurlin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=E2E8F0)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tim-spurlin&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/tim-spurlin)
+![trophy](https://github-profile-trophy.vercel.app/?username=tim-spurlin&theme=darkhub&no-frame=true&row=1&column=7)
 
 </div>
 
