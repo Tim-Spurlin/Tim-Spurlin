@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  ## 📊 GitHub Analytics
+   📊 GitHub Analytics
 
   <!-- This is the exact clean 3-panel card from your screenshot (reliable version) -->
   [![GitHub Analytics](https://streak-stats.demolab.com/?user=tim-spurlin&theme=dark&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideNums=10B981&sideLabels=10B981&date_format=M%20j%2C%20Y)](https://github.com/tim-spurlin)
