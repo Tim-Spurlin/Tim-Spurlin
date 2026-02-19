@@ -20,8 +20,6 @@
 
 </div>
 
----
-
 <div align="center">
   ## 📊 GitHub Analytics
 
