@@ -1,38 +1,40 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Christian%20Spurlin&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Christian Spurlin Banner" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Christian%20Spurlin&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  ### 🚀 Building tools in search of purpose. Every line of code, a step toward something meaningful.
 
-### 🚀 Building tools in search of purpose. Every line of code, a step toward something meaningful.
+  <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin:20px 0;">
+    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+    ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    ![React](https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  </div>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  <div style="display:flex;justify-content:center;gap:12px;margin:15px 0;">
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tim-spurlin)
+    [![Saphyre Solutions](https://img.shields.io/badge/Organization-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saphyre-Solutions-LLC)
+  </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tim-spurlin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tim.spurlin@saphyresolutions.com)
-[![Saphyre Solutions](https://img.shields.io/badge/Organization-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saphyre-Solutions-LLC)
-
-![Profile Views](https://komarev.com/ghpvc/?username=tim-spurlin&color=2D3748&style=for-the-badge)
-
+  ![Profile Views](https://komarev.com/ghpvc/?username=tim-spurlin&color=2D3748&style=for-the-badge)
 </div>
 
 ---
 
 <div align="center">
+  ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
+  <!-- Single clean analytics card that matches your screenshot style exactly -->
+  <img src="https://streak-stats.demolab.com/?user=tim-spurlin&theme=dark&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981&date_format=M%20j%2C%20Y" alt="GitHub Analytics" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tim-spurlin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=E2E8F0)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tim-spurlin&theme=dark&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981)](https://github.com/tim-spurlin)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tim-spurlin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=E2E8F0)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=tim-spurlin&theme=darkhub&no-frame=true&row=1&column=7)
-
+  <!-- Optional smaller cards below for extra detail (clickable) -->
+  <div style="display:flex;justify-content:center;gap:15px;flex-wrap:wrap;margin-top:20px;">
+    <a href="https://github.com/tim-spurlin"><img src="https://github-readme-stats.vercel.app/api?username=tim-spurlin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=E2E8F0&cache_seconds=1800" alt="GitHub Stats" /></a>
+    <a href="https://github.com/tim-spurlin"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tim-spurlin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=E2E8F0&cache_seconds=1800" alt="Top Languages" /></a>
+    <a href="https://github.com/tim-spurlin"><img src="https://github-profile-trophy.vercel.app/?username=tim-spurlin&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies" /></a>
+  </div>
 </div>
 
 ---
