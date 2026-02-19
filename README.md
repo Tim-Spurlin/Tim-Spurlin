@@ -33,13 +33,14 @@
   <br><br>
 
   <!-- Supporting cards below, neatly side-by-side when there's space -->
-  <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tim-spurlin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=E2E8F0&cache_seconds=7200" alt="GitHub Stats" height="165" />
-    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tim-spurlin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=E2E8F0&cache_seconds=7200" alt="Top Languages" height="165" />
-    
+  </p>
+  
+  <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=tim-spurlin&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies" height="165" />
-  </div>
+  </p>
 </div>
 ---
 
