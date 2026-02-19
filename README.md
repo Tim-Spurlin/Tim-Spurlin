@@ -71,12 +71,12 @@ flowchart TD
     D --> E[Reproducible Methods]
     E --> F[Reliable Tools]
     
-    style A fill:#2D3748,stroke:#4A5568,color:#E2E8F0
-    style B fill:#374151,stroke:#4B5563,color:#D1D5DB
-    style C fill:#2D3748,stroke:#4A5568,color:#E2E8F0
-    style D fill:#374151,stroke:#4B5563,color:#D1D5DB
-    style E fill:#2D3748,stroke:#4A5568,color:#E2E8F0
-    style F fill:#065F46,stroke:#10B981,color:#ECFDF5
+    style A fill:#2D3748,stroke:#4A5568
+    style B fill:#374151,stroke:#4B5563
+    style C fill:#2D3748,stroke:#4A5568
+    style D fill:#374151,stroke:#4B5563
+    style E fill:#2D3748,stroke:#4A5568
+    style F fill:#065F46,stroke:#10B981
 ```
 
 ## 🏠 Building in Solitude: The Daily Practice
@@ -163,14 +163,14 @@ graph TB
         V --> F[Final Response]
     end
     
-    style Q fill:#2D3748,stroke:#4A5568,color:#E2E8F0
-    style W fill:#374151,stroke:#4B5563,color:#D1D5DB
-    style Y fill:#374151,stroke:#4B5563,color:#D1D5DB
-    style H fill:#374151,stroke:#4B5563,color:#D1D5DB
-    style WF fill:#374151,stroke:#4B5563,color:#D1D5DB
-    style P fill:#374151,stroke:#4B5563,color:#D1D5DB
-    style S fill:#2D3748,stroke:#4A5568,color:#E2E8F0
-    style F fill:#065F46,stroke:#10B981,color:#ECFDF5
+    style Q fill:#2D3748,stroke:#4A5568
+    style W fill:#374151,stroke:#4B5563
+    style Y fill:#374151,stroke:#4B5563
+    style H fill:#374151,stroke:#4B5563
+    style WF fill:#374151,stroke:#4B5563
+    style P fill:#374151,stroke:#4B5563
+    style S fill:#2D3748,stroke:#4A5568
+    style F fill:#065F46,stroke:#10B981
 ```
 
 Each component runs deterministically. Each produces traceable outputs. The apparent intelligence comes from the interplay, not from any individual component's sophistication. This understanding shapes everything I build: tools that are auditable, reproducible, and reliable.
@@ -352,10 +352,10 @@ flowchart LR
     H --> I[Peer Review]
     I --> J[Deployment]
     
-    style A fill:#2D3748,stroke:#4A5568,color:#E2E8F0
-    style C fill:#374151,stroke:#4B5563,color:#D1D5DB
-    style E fill:#7C2D12,stroke:#EF4444,color:#FEE2E2
-    style J fill:#065F46,stroke:#10B981,color:#ECFDF5
+    style A fill:#2D3748,stroke:#4A5568
+    style C fill:#374151,stroke:#4B5563
+    style E fill:#7C2D12,stroke:#EF4444
+    style J fill:#065F46,stroke:#10B981
 ```
 
 **Security Measures:**
@@ -437,10 +437,10 @@ graph TD
     B --> C[Future: Purpose Unknown]
     C --> D[Constant: The Search Continues]
     
-    style A fill:#2D3748,stroke:#4A5568,color:#E2E8F0
-    style B fill:#374151,stroke:#4B5563,color:#D1D5DB
-    style C fill:#2D3748,stroke:#4A5568,color:#E2E8F0,stroke-dasharray: 5 5
-    style D fill:#065F46,stroke:#10B981,color:#ECFDF5
+    style A fill:#2D3748,stroke:#4A5568
+    style B fill:#374151,stroke:#4B5563
+    style C fill:#2D3748,stroke:#4A5568,stroke-dasharray: 5 5
+    style D fill:#065F46,stroke:#10B981
 ```
 
 ### ✨ *"The mission isn't always clear, but the dedication never wavers."* ✨
