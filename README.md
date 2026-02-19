@@ -23,18 +23,24 @@
 ---
 
 <div align="center">
+  ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
+  <!-- This is the exact clean 3-panel card you liked in your screenshot 
+       (Total Contributions | big Current Streak circle | Longest Streak) 
+       — now using the stable, reliable fork instead of the flaky herokuapp -->
+  [![GitHub Analytics](https://streak-stats.demolab.com/?user=tim-spurlin&theme=dark&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideNums=10B981&sideLabels=10B981&date_format=M%20j%2C%20Y)](https://github.com/tim-spurlin)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tim-spurlin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=E2E8F0)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tim-spurlin&theme=dark&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981)](https://github.com/tim-spurlin)
+  <br><br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tim-spurlin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=E2E8F0)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=tim-spurlin&theme=darkhub&no-frame=true&row=1&column=7)
-
+  <!-- Supporting cards below, neatly side-by-side when there's space -->
+  <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=tim-spurlin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=E2E8F0&cache_seconds=7200" alt="GitHub Stats" height="165" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tim-spurlin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=E2E8F0&cache_seconds=7200" alt="Top Languages" height="165" />
+    
+    <img src="https://github-profile-trophy.vercel.app/?username=tim-spurlin&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies" height="165" />
+  </div>
 </div>
-
 ---
 
 ## 🎯 The Search for Purpose After Service
