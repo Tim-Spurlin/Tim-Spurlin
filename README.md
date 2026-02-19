@@ -12,7 +12,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tim-spurlin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianspurlin93/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tim.spurlin@saphyresolutions.com)
 [![Saphyre Solutions](https://img.shields.io/badge/Organization-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saphyre-Solutions-LLC)
 
@@ -413,7 +413,7 @@ If you've read this far, you're likely someone who values depth over surface, un
 | 🤝 **Collaboration** | Share your vision and requirements | 8-24 hours |
 
 [![Email Me](https://img.shields.io/badge/Email-tim.spurlin%40saphyresolutions.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tim.spurlin@saphyresolutions.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tim-spurlin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianspurlin93/)
 
 </div>
 
