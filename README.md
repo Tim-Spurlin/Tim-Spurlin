@@ -29,7 +29,6 @@
   <br><br>
 
 </div>
----
 
 ## 🎯 The Search for Purpose After Service
 
