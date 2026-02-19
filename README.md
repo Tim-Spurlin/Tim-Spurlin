@@ -30,12 +30,6 @@
 
   <br><br>
 
-  <!-- Pure Markdown images — these ALWAYS render on GitHub (no more raw code showing) -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tim-spurlin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=E2E8F0&cache_seconds=7200)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tim-spurlin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=E2E8F0&cache_seconds=7200)
-
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=tim-spurlin&theme=darkhub&no-frame=true&row=1&column=7)
 </div>
 ---
 
