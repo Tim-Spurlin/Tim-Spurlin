@@ -23,7 +23,7 @@
   ## 📊 GitHub Analytics
 
   <!-- Single clean analytics card that matches your screenshot style exactly -->
-  <img src="https://streak-stats.demolab.com/?user=tim-spurlin&theme=dark&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981&date_format=M%20j%2C%20Y" alt="GitHub Analytics" />
+  <img src="https://streak-stats.demolab.com/?user=tim-spurlin&theme=dark&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981&date_format=M%20j%2C%20Y" alt="GitHub Streak Statistics" />
 
   <!-- Optional smaller cards below for extra detail (clickable) -->
   <p>
